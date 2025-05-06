@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: 'KaiTi';
+  src: url('https://cdn.jsdmirror.com/gh/huajianmao/resources/fonts/simkai.woff2') format('woff2');
+}
